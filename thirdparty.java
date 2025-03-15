@@ -7,7 +7,7 @@ public class thirdparty {
         temp=a;
         a=b;
         b=temp;
-        System.out.println("a:" +a);
+        System.out.println("a:"+a);
         System.out.println("b:"+b);
     }
 }
